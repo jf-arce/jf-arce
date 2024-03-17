@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jose Francisco Arce</h1>
-<h3 align="center">A frontend developer and system engineering student from Argentina</h3>
-
-
-
 <h2 align="center">Hi 👋! My name is Jose Francisco Arce</h2>
 
 ###
 
-<p align="center">Full Stack developer and system engineering student from Argentina</p>
+<h3 align="center">Full Stack developer and system engineering student from Argentina</h3>
 
-- 📫 How to reach me **josefranciscoarce21@gmail.com**
+<div align="center">
+
+  📫 How to reach me **josefranciscoarce21@gmail.com**
+
+</div>
 
 ###
 
@@ -59,28 +58,18 @@
   <a href="https://www.linkedin.com/in/jose-francisco-arce-b99824248/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://josefranciscoarce21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/f2/b2/2c/f2b22cf0f260a007a4c1edcce26934d9.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
+ 
   <img src="https://streak-stats.demolab.com?user=jf-arce&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jf-arce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jf-arce/jf-arce/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/f2/b2/2c/f2b22cf0f260a007a4c1edcce26934d9.gif"  />
+</div>
